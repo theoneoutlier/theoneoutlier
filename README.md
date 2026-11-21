@@ -56,13 +56,7 @@ No fixed direction. Just curiosity.
 
 <div align="center">
 
-| PROJECT | DESCRIPTION |
-|:---|:---|
-| [➜ Project One](YOUR_PROJECT_LINK_1) | Your description |
-| [➜ Project Two](YOUR_PROJECT_LINK_2) | Your description |
-| [➜ Project Three](YOUR_PROJECT_LINK_3) | Your description |
-| [➜ Project Four](YOUR_PROJECT_LINK_4) | Your description |
-| [➜ Project Five](YOUR_PROJECT_LINK_5) | Your description |
+COMING SOON!
 
 </div>
 
