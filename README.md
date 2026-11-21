@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="pixel-mountains.png" width="50%" alt="TheOneOutlier pixel mountain universe" />
+<img src="githubpixelbg.jpg" width="50%" alt="TheOneOutlier pixel mountain universe" />
 
 <br/>
 
