@@ -1,176 +1,109 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=THEONEOUTLIER&fontSize=48&fontColor=F5F5F5&fontAlignY=43&stroke=737373&strokeWidth=1&animation=twinkling&desc=AN%20ONGOING%20EXPERIMENT%20IN%20CURIOSITY&descSize=11&descAlignY=63&color=0:09090b,45:18181b,100:27272a" />
+<img src="pixel-mountains.png" width="100%" alt="TheOneOutlier pixel mountain universe" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=550&height=30&lines=WELCOME+TO+MY+CORNER+OF+THE+INTERNET.;A+WORLD+OF+IDEAS+AND+CURIOSITY." />
+
+<br/>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/ENTER_PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=17152e" />
+</a>
+<a href="https://github.com/theoneoutlier?tab=repositories">
+<img src="https://img.shields.io/badge/GITHUB_PROJECTS-30265c?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=theoneoutlier&style=pixel&color=8B5CF6&label=VISITORS" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=4000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=450&height=30&lines=%5B+PLAYER+PROFILE+%5D" />
+
+</div>
+
+<img align="right" width="105" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3500&pause=1000&color=A78BFA&width=350&height=25&lines=HELLO%2C+WORLD!" />
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=21&duration=4000&pause=1000&color=A1A1AA&width=450&height=90&lines=I+explore+technology%2C+mathematics%2C;science+and+imagination.;I+question%2C+create+and+build.;No+fixed+direction.+Just+curiosity." />
+
+<br clear="right"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3500&pause=1200&color=C4B5FD&center=true&vCenter=true&width=450&height=28&lines=THE+WORLD+IS+MY+SANDBOX." />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&height=30&lines=%3E%3E+MY+PROJECTS" />
+
+<sub>Things I've built along the way.</sub>
+
+</div>
+
+<!-- ADD YOUR PROJECTS MANUALLY -->
+
+<div align="center">
+
+| PROJECT | DESCRIPTION |
+|:---|:---|
+| [➜ Project One](YOUR_PROJECT_LINK_1) | Your description |
+| [➜ Project Two](YOUR_PROJECT_LINK_2) | Your description |
+| [➜ Project Three](YOUR_PROJECT_LINK_3) | Your description |
+| [➜ Project Four](YOUR_PROJECT_LINK_4) | Your description |
+| [➜ Project Five](YOUR_PROJECT_LINK_5) | Your description |
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=450&height=25&lines=MORE+WORLDS+TO+DISCOVER..." />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&height=30&lines=%3E%3E+GITHUB+STATS" />
+
+<br/>
+
+<img height="145" src="https://github-readme-stats.vercel.app/api?username=theoneoutlier&show_icons=true&hide_border=true&bg_color=0D0B18&title_color=C4B5FD&text_color=A1A1AA&icon_color=A78BFA&rank_icon=github&include_all_commits=true" />
+
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoneoutlier&layout=compact&hide_border=true&bg_color=0D0B18&title_color=C4B5FD&text_color=A1A1AA&langs_count=5" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=theoneoutlier&hide_border=true&background=0D0B18&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=A1A1AA&dates=71717A&currStreakNum=FFFFFF&sideNums=E4E4E7" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&height=30&lines=%3E%3E+ACTIVITY+MAP" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theoneoutlier&bg_color=0D0B18&color=A1A1AA&line=8B5CF6&point=C4B5FD&area=true&area_color=312e81&hide_border=true" width="95%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&height=30&lines=%3E%3E+NEXT+DESTINATION" />
+
+<br/>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 <a href="https://github.com/theoneoutlier">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=2800&pause=850&color=A3A3A3&center=true&vCenter=true&repeat=true&width=620&height=32&lines=I+follow+questions+down+rabbit+holes.;I+build+what+I+wish+existed.;Curiosity+is+the+only+constant." alt="Animated intro" />
+<img src="https://img.shields.io/badge/GITHUB-17152e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/theoneoutlier?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-27272a?style=for-the-badge&labelColor=09090b&color=27272a" />
-</a>
-&nbsp;
-<a href="https://github.com/theoneoutlier?tab=stars">
-  <img src="https://img.shields.io/badge/FOLLOW-THE%20TRAIL-27272a?style=for-the-badge&labelColor=09090b&color=27272a" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=theoneoutlier&style=flat-square&color=52525b&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=3500&pause=1200&color=C4B5FD&center=true&vCenter=true&width=450&height=30&lines=THANKS+FOR+VISITING!" />
 
-`INDEPENDENT THINKING` &nbsp;·&nbsp; `EXPERIMENTAL BUILDING` &nbsp;·&nbsp; `ENDLESS CURIOSITY`
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### 01 / A LITTLE ABOUT ME
-
-I’m interested in the space where **technology, science, mathematics, and imagination** overlap.
-
-I enjoy taking ideas apart, understanding how they work, and building my own versions — sometimes useful, sometimes strange, always worth exploring.
-
-I don't really have a single lane. That's kind of the point.
-
-</td>
-<td width="42%" valign="top">
-
-### CURRENT STATE
-
-```text
-STATUS      learning / building
-MINDSET     question everything
-INTERESTS   systems & ideas
-DIRECTION   deliberately unknown
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 02 / SELECTED EXPERIMENTS
-
-*Small windows into things I've been making.*
-
-</div>
-
-<!-- Replace these repository names with your real project repositories.
-     Add more cards by copying one block. -->
-
-<div align="center">
-
-<a href="https://github.com/theoneoutlier/REPO_NAME_1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theoneoutlier&repo=REPO_NAME_1&theme=transparent&hide_border=true&title_color=e5e5e5&text_color=a3a3a3&icon_color=d4d4d4" />
-</a>
-<a href="https://github.com/theoneoutlier/REPO_NAME_2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theoneoutlier&repo=REPO_NAME_2&theme=transparent&hide_border=true&title_color=e5e5e5&text_color=a3a3a3&icon_color=d4d4d4" />
-</a>
-<a href="https://github.com/theoneoutlier/REPO_NAME_3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theoneoutlier&repo=REPO_NAME_3&theme=transparent&hide_border=true&title_color=e5e5e5&text_color=a3a3a3&icon_color=d4d4d4" />
-</a>
-<a href="https://github.com/theoneoutlier/REPO_NAME_4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=theoneoutlier&repo=REPO_NAME_4&theme=transparent&hide_border=true&title_color=e5e5e5&text_color=a3a3a3&icon_color=d4d4d4" />
-</a>
-
-</div>
-
-<div align="center">
-  <sub>MORE IDEAS IN THE WORKSHOP → <a href="https://github.com/theoneoutlier?tab=repositories">ALL REPOSITORIES</a></sub>
-</div>
-
----
-
-<div align="center">
-
-## 03 / THE GITHUB FOOTPRINT
-
-*An evolving record, not a scoreboard.*
-
-<br/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=theoneoutlier&show_icons=true&hide_border=true&bg_color=09090b&title_color=e5e5e5&text_color=a3a3a3&icon_color=d4d4d4&ring_color=a3a3a3&include_all_commits=true&rank_icon=github" />
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoneoutlier&layout=donut-vertical&hide_border=true&bg_color=09090b&title_color=e5e5e5&text_color=a3a3a3&langs_count=5" />
-
-<br/><br/>
-
-<img width="78%" src="https://streak-stats.demolab.com?user=theoneoutlier&hide_border=true&background=09090b&ring=a3a3a3&fire=e5e5e5&currStreakLabel=e5e5e5&sideLabels=a3a3a3&dates=737373&currStreakNum=f5f5f5&sideNums=e5e5e5" />
-
-</div>
-
----
-
-<div align="center">
-
-## 04 / THE CONTRIBUTION MAP
-
-*Every little square is a trace of time spent making something.*
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theoneoutlier&bg_color=09090b&color=a3a3a3&line=737373&point=e5e5e5&area=true&area_color=27272a&hide_border=true&custom_title=ACTIVITY%20OVER%20TIME" width="100%" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 05 / TOOLBOX
-
-Things I use, learn, break, and rebuild.
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark&perline=7" alt="Technology icons" />
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-### 06 / ELSEWHERE
-
-The best way to explore what I'm doing is to look through the repositories.
-
-<br/>
-
-<a href="https://github.com/theoneoutlier">↗ &nbsp; GitHub profile</a>
-
-<a href="https://github.com/theoneoutlier?tab=repositories">↗ &nbsp; Browse projects</a>
-
-<a href="https://github.com/theoneoutlier?tab=stars">↗ &nbsp; Things I find interesting</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=13&duration=3500&pause=1200&color=737373&center=true&vCenter=true&width=500&lines=NOT+HERE+TO+FIT+A+CATEGORY.;HERE+TO+EXPLORE+WHAT'S+POSSIBLE." alt="Closing line" />
-
-<br/><br/>
-
-<sub>MADE OF QUESTIONS. BUILT ONE EXPERIMENT AT A TIME.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:27272a,55:18181b,100:09090b" />
+<sub>THEONEOUTLIER // LEVEL ∞ // STILL EXPLORING</sub>
 
 </div>
