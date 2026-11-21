@@ -1,11 +1,12 @@
 
 <div align="center">
 
-<img src="pixel-mountains.png" width="100%" alt="TheOneOutlier pixel mountain universe" />
+<img src="pixel-mountains.png" width="50%" alt="TheOneOutlier pixel mountain universe" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=550&height=30&lines=WELCOME+TO+MY+CORNER+OF+THE+INTERNET.;A+WORLD+OF+IDEAS+AND+CURIOSITY." />
+<h3 align="center">WELCOME TO MY CORNER OF THE INTERNET.</h3>
+<p align="center">A WORLD OF IDEAS AND CURIOSITY.</p>
 
 <br/>
 
@@ -24,25 +25,28 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=4000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=450&height=30&lines=%5B+PLAYER+PROFILE+%5D" />
+<h3>[ PLAYER PROFILE ]</h3>
 
 </div>
 
 <img align="right" width="105" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3500&pause=1000&color=A78BFA&width=350&height=25&lines=HELLO%2C+WORLD!" />
+<h3>HELLO, WORLD!</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=21&duration=4000&pause=1000&color=A1A1AA&width=450&height=90&lines=I+explore+technology%2C+mathematics%2C;science+and+imagination.;I+question%2C+create+and+build.;No+fixed+direction.+Just+curiosity." />
+I explore technology, mathematics,  
+science and imagination.  
+I question, create and build.  
+No fixed direction. Just curiosity.
 
 <br clear="right"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3500&pause=1200&color=C4B5FD&center=true&vCenter=true&width=450&height=28&lines=THE+WORLD+IS+MY+SANDBOX." />
+<h3>THE WORLD IS MY SANDBOX.</h3>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&height=30&lines=%3E%3E+MY+PROJECTS" />
+<h3> &gt;&gt; MY PROJECTS</h3>
 
 <sub>Things I've built along the way.</sub>
 
@@ -64,11 +68,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=450&height=25&lines=MORE+WORLDS+TO+DISCOVER..." />
+<h4>MORE WORLDS TO DISCOVER...</h4>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&height=30&lines=%3E%3E+GITHUB+STATS" />
+<h3>&gt;&gt; GITHUB STATS</h3>
 
 <br/>
 
@@ -82,13 +86,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&height=30&lines=%3E%3E+ACTIVITY+MAP" />
+<h3>&gt;&gt; ACTIVITY MAP</h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theoneoutlier&bg_color=0D0B18&color=A1A1AA&line=8B5CF6&point=C4B5FD&area=true&area_color=312e81&hide_border=true" width="95%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&height=30&lines=%3E%3E+NEXT+DESTINATION" />
+<h3>&gt;&gt; NEXT DESTINATION</h3>
 
 <br/>
 
@@ -102,7 +106,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=3500&pause=1200&color=C4B5FD&center=true&vCenter=true&width=450&height=30&lines=THANKS+FOR+VISITING!" />
+<h4>THANKS FOR VISITING!</h4>
 
 <sub>THEONEOUTLIER // LEVEL ∞ // STILL EXPLORING</sub>
 
